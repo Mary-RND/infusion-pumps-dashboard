@@ -1,3 +1,5 @@
+> [← Портфолио Марины Петрушиной](https://mary-rnd.github.io/portfolio/) — сайты, ИИ-боты, трекеры и автоматизация для малого бизнеса и MedTech.
+
 # Infusion Pumps — Market Dashboard
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-4c1d95?style=for-the-badge&logo=github-pages&logoColor=white)](https://mary-rnd.github.io/infusion-pumps-dashboard/)
